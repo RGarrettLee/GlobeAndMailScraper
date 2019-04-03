@@ -1,0 +1,30 @@
+C:\Users\Garrett\source\repos\Globe n Mail Article Grabber\Globe n Mail Article Grabber\bin\Debug\Globe n Mail Article Grabber.exe.config
+C:\Users\Garrett\source\repos\Globe n Mail Article Grabber\Globe n Mail Article Grabber\bin\Debug\Globe n Mail Article Grabber.exe
+C:\Users\Garrett\source\repos\Globe n Mail Article Grabber\Globe n Mail Article Grabber\bin\Debug\Globe n Mail Article Grabber.pdb
+C:\Users\Garrett\source\repos\Globe n Mail Article Grabber\Globe n Mail Article Grabber\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Garrett\source\repos\Globe n Mail Article Grabber\Globe n Mail Article Grabber\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Garrett\source\repos\Globe n Mail Article Grabber\Globe n Mail Article Grabber\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Garrett\source\repos\Globe n Mail Article Grabber\Globe n Mail Article Grabber\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Garrett\source\repos\Globe n Mail Article Grabber\Globe n Mail Article Grabber\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Garrett\source\repos\Globe n Mail Article Grabber\Globe n Mail Article Grabber\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Garrett\source\repos\Globe n Mail Article Grabber\Globe n Mail Article Grabber\obj\Debug\Globe n Mail Article Grabber.csprojAssemblyReference.cache
+C:\Users\Garrett\source\repos\Globe n Mail Article Grabber\Globe n Mail Article Grabber\obj\Debug\Globe n Mail Article Grabber.csproj.CoreCompileInputs.cache
+C:\Users\Garrett\source\repos\Globe n Mail Article Grabber\Globe n Mail Article Grabber\obj\Debug\Globe n Mail Article Grabber.csproj.CopyComplete
+C:\Users\Garrett\source\repos\Globe n Mail Article Grabber\Globe n Mail Article Grabber\obj\Debug\Globe n Mail Article Grabber.exe
+C:\Users\Garrett\source\repos\Globe n Mail Article Grabber\Globe n Mail Article Grabber\obj\Debug\Globe n Mail Article Grabber.pdb
+D:\Code Repository\C#\Globe n Mail Article Grabber\Globe n Mail Article Grabber\bin\Debug\Globe n Mail Article Grabber.exe.config
+D:\Code Repository\C#\Globe n Mail Article Grabber\Globe n Mail Article Grabber\bin\Debug\Globe n Mail Article Grabber.exe
+D:\Code Repository\C#\Globe n Mail Article Grabber\Globe n Mail Article Grabber\bin\Debug\Globe n Mail Article Grabber.pdb
+D:\Code Repository\C#\Globe n Mail Article Grabber\Globe n Mail Article Grabber\bin\Debug\HtmlAgilityPack.dll
+D:\Code Repository\C#\Globe n Mail Article Grabber\Globe n Mail Article Grabber\bin\Debug\Newtonsoft.Json.dll
+D:\Code Repository\C#\Globe n Mail Article Grabber\Globe n Mail Article Grabber\bin\Debug\HtmlAgilityPack.pdb
+D:\Code Repository\C#\Globe n Mail Article Grabber\Globe n Mail Article Grabber\bin\Debug\HtmlAgilityPack.xml
+D:\Code Repository\C#\Globe n Mail Article Grabber\Globe n Mail Article Grabber\bin\Debug\Newtonsoft.Json.pdb
+D:\Code Repository\C#\Globe n Mail Article Grabber\Globe n Mail Article Grabber\bin\Debug\Newtonsoft.Json.xml
+D:\Code Repository\C#\Globe n Mail Article Grabber\Globe n Mail Article Grabber\obj\Debug\Globe n Mail Article Grabber.csprojAssemblyReference.cache
+D:\Code Repository\C#\Globe n Mail Article Grabber\Globe n Mail Article Grabber\obj\Debug\Globe n Mail Article Grabber.csproj.CoreCompileInputs.cache
+D:\Code Repository\C#\Globe n Mail Article Grabber\Globe n Mail Article Grabber\obj\Debug\Globe n Mail Article Grabber.csproj.CopyComplete
+D:\Code Repository\C#\Globe n Mail Article Grabber\Globe n Mail Article Grabber\obj\Debug\Globe n Mail Article Grabber.exe
+D:\Code Repository\C#\Globe n Mail Article Grabber\Globe n Mail Article Grabber\obj\Debug\Globe n Mail Article Grabber.pdb
+C:\Users\doobi\OneDrive\Documents\Code Repository\C#\Globe n Mail Article Grabber\Globe n Mail Article Grabber\obj\Debug\Globe n Mail Article Grabber.exe
+C:\Users\doobi\OneDrive\Documents\Code Repository\C#\Globe n Mail Article Grabber\Globe n Mail Article Grabber\obj\Debug\Globe n Mail Article Grabber.pdb
