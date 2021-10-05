@@ -19,7 +19,6 @@ namespace Globe_n_Mail_Article_Grabber {
             Console.WriteLine("=========================================================");
             Console.WriteLine("Retrieves Articles from The Globe and Mail");
             Console.WriteLine("ALL ARTCILE LINKS WORK. EVEN SUBSCRIBER LOCKED ONES");
-            Console.WriteLine("Graciously brought to you by the Genius mind of Lagger");
             Console.WriteLine("=========================================================");
             Console.Write("\nArticle Link: ");
             link = Console.ReadLine();
@@ -45,7 +44,6 @@ namespace Globe_n_Mail_Article_Grabber {
                 Console.WriteLine("=========================================================");
                 Console.WriteLine("Retrieves Articles from The Globe and Mail");
                 Console.WriteLine("ALL ARTCILE LINKS WORK. EVEN SUBSCRIBER LOCKED ONES");
-                Console.WriteLine("Graciously brought to you by the Genius mind of Lagger");
                 Console.WriteLine("=========================================================");
                 Console.WriteLine("\nYou have entered an invalid link");
                 Console.Write("\nArticle Link: ");
